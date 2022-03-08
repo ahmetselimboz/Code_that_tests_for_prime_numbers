@@ -11,7 +11,7 @@ int prime(int n) {
 		}
 	}
 
-
+	return 1;
 }
 
 
